@@ -10,3 +10,8 @@ Known issue: Switching resolutions with "auto-launch game" enabled may cause pro
 ---------
 Known issues: 
 Switching resolutions with "auto-launch game" enabled may cause problems. Set your resolution before enabling the feature. The auto-launch feature will work as intended afterwards.
+---------
+You may view the source code here: https://github.com/GitFragged/CS2-Resolution-Manager/tree/source-code
+VirusTotal "4/72 security vendors flagged this file as malicious": https://www.virustotal.com/gui/file/954b2f3e25d8b8417eeb0ee964f29c834e55c4d3da5dfbc20b28cd2f04180201
+
+Use at your own discretion. I am not responsible for any account suspenison.
